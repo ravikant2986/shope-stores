@@ -135,7 +135,7 @@ $settings = json_decode(file_get_contents('settings.json'), true);
     </div>
     <!--/.container-fluid -->
   	</nav>
-	 
+	 dsf dg dgdf gdfgh fghf hfh
     <div>
       <img width="950px" height="350px" src="http://via.placeholder.com/950x350" id="header-banner" alt="banner image"/>
     </div>
